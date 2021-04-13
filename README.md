@@ -1,4 +1,4 @@
-# Change in Mobility Trend using Google's Data
+# Global Mobility Trend during the COVID-19 pandemic using Google's Data
 
 Interactive Graph published here: https://chart-studio.plotly.com/~jpactuario/4.embed
 
